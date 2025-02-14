@@ -3,9 +3,11 @@
 
 ## Resources Used 📚  
 Here are the resources I'm using to learn ML and AI:  
-
-- [Deep Learning Specialization by Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)  
-- [CampusX - 100 Days of Machine Learning](https://github.com/campusx-official/100-days-of-machine-learning)  
+| Topic                                       | Resources/Links         | Notes |
+|---------------------------------------------|-------------------------|-------|
+| Deep Learning Specialization                | [Course](#)             | -     |
+| CampusX (100 days of Machine Learning)      | [Article](#)            | -     |
+| Andrej Karpathy (NN Zero to Hero)           | [Video](#)              | -     |
 
 
 ## Day 1
