@@ -1,14 +1,14 @@
-# Machine-Learning
+# Learning Journey 
 
 
 ## 📌 Machine Learning & AI Learning Resources  
 
 | Topic                                       | Resources/Links                                       | Notes |
 |---------------------------------------------|------------------------------------------------------|-------|
-| Machine Learning Specialization             | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | -     |
-| Deep Learning Specialization                | [DL Specialization](https://www.coursera.org/specializations/deep-learning) | -     |
-| CampusX (100 Days of Machine Learning)      | [100 Days of ML](https://campusx.in/) | -     |
-| Andrej Karpathy (NN Zero to Hero)           | [NN Zero to Hero](https://karpathy.ai/neural-networks-zero-to-hero) | -     |
+| Machine Learning Specialization             | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | ✅  |
+| Deep Learning Specialization                | [DL Specialization](https://www.coursera.org/specializations/deep-learning) | ⏳   |
+| CampusX (100 Days of Machine Learning)      | [100 Days of ML](https://campusx.in/) |⏳  |
+| Andrej Karpathy (NN Zero to Hero)           | [NN Zero to Hero](https://karpathy.ai/neural-networks-zero-to-hero) | -  |
 
 
 
