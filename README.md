@@ -1,13 +1,15 @@
 # Machine-Learning
 
 
-## Resources Used 📚  
-Here are the resources I'm using to learn ML and AI:  
-| Topic                                       | Resources/Links         | Notes |
-|---------------------------------------------|-------------------------|-------|
-| Deep Learning Specialization                | [Course](#)             | -     |
-| CampusX (100 days of Machine Learning)      | [Article](#)            | -     |
-| Andrej Karpathy (NN Zero to Hero)           | [Video](#)              | -     |
+## 📌 Machine Learning & AI Learning Resources  
+
+| Topic                                       | Resources/Links                                       | Notes |
+|---------------------------------------------|------------------------------------------------------|-------|
+| Machine Learning Specialization             | [ML Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | -     |
+| Deep Learning Specialization                | [DL Specialization](https://www.coursera.org/specializations/deep-learning) | -     |
+| CampusX (100 Days of Machine Learning)      | [100 Days of ML](https://campusx.in/) | -     |
+| Andrej Karpathy (NN Zero to Hero)           | [NN Zero to Hero](https://karpathy.ai/neural-networks-zero-to-hero) | -     |
+
 
 
 ## Day 1
