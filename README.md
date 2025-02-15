@@ -34,9 +34,6 @@
 
 
 
-## Day 2
 
-### Instance Based vs Model Based Learning
-
-
+ 
 
