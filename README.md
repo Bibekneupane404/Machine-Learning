@@ -9,7 +9,7 @@
 | Deep Learning Specialization                | [DL Specialization](https://www.coursera.org/specializations/deep-learning) | ⏳   |
 | CampusX (100 Days of Machine Learning)      | [100 Days of ML](https://campusx.in/) |⏳  |
 | Andrej Karpathy (NN Zero to Hero)           | [NN Zero to Hero](https://karpathy.ai/neural-networks-zero-to-hero) | -  |
-| fast(dot)ai Course           | [Fast AI](https://www.fast.ai/). | -  |
+| fast(dot)ai Course           | [Fast AI](https://www.fast.ai/) | -  |
 
 
 
