@@ -9,6 +9,8 @@
 | Deep Learning Specialization                | [DL Specialization](https://www.coursera.org/specializations/deep-learning) | ⏳   |
 | CampusX (100 Days of Machine Learning)      | [100 Days of ML](https://campusx.in/) |⏳  |
 | Andrej Karpathy (NN Zero to Hero)           | [NN Zero to Hero](https://karpathy.ai/neural-networks-zero-to-hero) | -  |
+| fast(dot)ai Course           | [Fast AI]([https://karpathy.ai/neural-networks-zero-to-hero](https://www.fast.ai/)) | -  |
+
 
 
 
@@ -29,3 +31,12 @@
 
 - Spent 30 minutes understanding the difference between online and offline ML models.
 - Online ML updates models dynamically with new data, while offline ML trains on static datasets.
+
+
+
+## Day 2
+
+### Instance Based vs Model Based Learning
+
+
+
