@@ -34,6 +34,16 @@
 
 
 
+## Day 2
 
+### Model Based Learning VS Instance based Leening
+
+#### Model Baseed Learning
+
+![image](https://github.com/user-attachments/assets/c612c0c2-2102-45f5-b86e-6ef47f0385e3)
+
+
+#### Instance Based Learning 
  
+![image](https://github.com/user-attachments/assets/bae18dd5-2476-4d77-bb69-0c9c50eddb5c)
 
