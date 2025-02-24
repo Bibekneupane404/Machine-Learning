@@ -10,6 +10,8 @@
 | CampusX (100 Days of Machine Learning)      | [100 Days of ML](https://campusx.in/) |⏳  |
 | Andrej Karpathy (NN Zero to Hero)           | [NN Zero to Hero](https://karpathy.ai/neural-networks-zero-to-hero) | -  |
 | fast(dot)ai Course           | [Fast AI](https://www.fast.ai/) | -  |
+| NLP ( CS224N )           | [CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) | -  |
+
 
 
 
