@@ -1,7 +1,5 @@
 # Learning Journey 
 
-After a long break following the Machine Learning Specialization, I’m now diving into Deep Learning while revisiting ML concepts along the way. I'll be documenting my entire learning journey here.
-
 
 ## 📌 Machine Learning & AI Learning Resources  
 
