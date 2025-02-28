@@ -1,5 +1,6 @@
 # Learning Journey 
 
+I took a long gap after doing Machine Learning speclialization. Now, I will learn Deep Learning and also revise the ML concepts along the way.
 
 ## 📌 Machine Learning & AI Learning Resources  
 
