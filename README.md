@@ -17,9 +17,8 @@
 ### Day 1
 
 
-![image](https://github.com/user-attachments/assets/e8b26b76-9419-426a-b2e7-cc805addced1)
+![image](https://github.com/user-attachments/assets/d86668fe-3ff1-4146-b8db-87a461ff6341)
+![image](https://github.com/user-attachments/assets/ad7a228f-bc37-4291-a996-3bf2f5589f79)
 
+Today I started a series by Andrej Karpathy ( NN Zero to Hero , where the first video is about building micrograd. Micrograd is a minimal autograd engine for scalar-valued computations, designed to illustrate backpropagation and automatic differentiation in deep learning. Today I completed half of the video where Andrej Taught fundamentals behind the backpropagation and how gradients are calculated. It was intresting because I got to visualize it using the Graph.
 
-- Started watching **Andrej Karpathy's "Neural Networks: Zero to Hero"** series.
-- Began implementing **Micrograd**, a simple autograd engine for backpropagation.
-- Explored **slopes and derivatives** in depth, understanding their significance in optimization.
