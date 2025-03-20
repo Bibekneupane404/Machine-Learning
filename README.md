@@ -25,4 +25,9 @@ Today I started a series by Andrej Karpathy ( NN Zero to Hero ), where the first
 ![image](https://github.com/user-attachments/assets/ad7a228f-bc37-4291-a996-3bf2f5589f79)
 
 
+### Day 2
+
+Explored the second example in Micrograd, diving deeper into backpropagation and understanding how gradients propagate through a computation graph. Also learned about the tanh activation function, its role in non-linearity, and how it helps control gradient magnitudes during training.
+
+
 
