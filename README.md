@@ -1,6 +1,6 @@
 # Learning Journey 
 
-Took a long break after doing ML specialization on Coursera so, I'll be revising the ML concepts daily through CampusX 100 days of ML and I'll use other recourses too while building projects.
+Took a long break after doing ML specialization on Coursera so, I'll be revising the ML concepts daily through CampusX 100 days of ML and I'll use other resourses too while building projects.
 
 
 
