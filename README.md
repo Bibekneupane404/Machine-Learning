@@ -17,4 +17,25 @@ Took a long break after doing ML specialization on Coursera so, I'll be revising
 
 
 
+### Day 1
 
+
+Revised tensors, axes, and ranks from 1D to 5D.
+
+✅ Key Points:
+Tensor: Multi-dimensional array.
+
+Rank: Number of dimensions (axes).
+
+📊 Examples:
+0D: Scalar → x = 5
+
+1D: Vector → [1, 2, 3]
+
+2D: Matrix → [[1, 2], [3, 4]]
+
+3D: shape = (2, 3, 4)
+
+4D: Image batch → (10, 3, 64, 64)
+
+5D: Video batch → (16, 10, 3, 64, 64)
