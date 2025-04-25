@@ -1,5 +1,8 @@
 # Learning Journey 
 
+Took a long break after doing ML specialization on Coursera so, I'll be revising the ML concepts daily through CampusX 100 days of ML and I'll use other recourses too while building projects.
+
+
 
 ## 📌 Machine Learning & AI Learning Resources  
 
@@ -13,6 +16,5 @@
 | NLP ( CS224N )           | [CS224N](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) | -  |
 
 
-Took a long break after doing ML specialization on Coursera so, I'll be revising the ML concepts daily through CampusX 100 days of ML and I'll use other recourses too while building projects.
 
 
