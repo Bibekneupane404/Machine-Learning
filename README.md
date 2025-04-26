@@ -39,3 +39,8 @@ Rank: Number of dimensions (axes).
 4D: Image batch → (10, 3, 64, 64)
 
 5D: Video batch → (16, 10, 3, 64, 64)
+
+
+### Day 2
+
+Today did a project based on Logistic regression where I understood the overall ML process from beginning to the end. I used 100 datas (CSV) to take IQ and CGPA as a input from the sutdents and predict the Placement at a company. 
