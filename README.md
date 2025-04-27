@@ -44,3 +44,19 @@ Rank: Number of dimensions (axes).
 ### Day 2
 
 Today did a project based on Logistic regression where I understood the overall ML process from beginning to the end. I used 100 datas (CSV) to take IQ and CGPA as a input from the sutdents and predict the Placement at a company. 
+
+
+### Day 3
+
+
+Today, I learned how to frame a Machine Learning (ML) problem effectively.
+The key steps I focused on were:
+
+Understanding the Problem: Before thinking about models or data, it's important to clearly define the goal. For example, if the objective is to lower the churn rate, I first need to deeply understand what churn means in the specific context.
+
+Identifying the Problem Type: Once the goal is clear, I work on framing it as an ML task — for instance, predicting whether a customer will churn (a classification problem).
+
+Thinking About Solutions: After identifying the problem, I brainstorm different ways ML could help solve it, such as building a model to predict churn early so interventions can be made.
+
+Overall, the big idea is:
+Understand first, model later.
