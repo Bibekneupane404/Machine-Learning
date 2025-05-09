@@ -56,3 +56,16 @@ Thinking About Solutions: After identifying the problem, I brainstorm different 
 
 Overall, the big idea is:
 Understand first, model later.
+
+
+### Day 4
+
+Used pandas to work with CSV files.
+
+Learned to read CSVs from local files and URLs using pd.read_csv().
+
+Explored data with head(), tail(), shape, info(), and describe().
+
+Handled missing values using isnull(), dropna(), and fillna().
+
+Saved DataFrames to CSV using to_csv().
