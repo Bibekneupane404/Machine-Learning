@@ -69,3 +69,10 @@ Explored data with head(), tail(), shape, info(), and describe().
 Handled missing values using isnull(), dropna(), and fillna().
 
 Saved DataFrames to CSV using to_csv().
+
+
+### Day 5
+
+Learned how to work with Json Files and tried few example datasets form kaggle.
+Learned how to work with SQL data and tried it one example dataset from kaggle.
+Mostly learned about reaading the data in Pandas.
