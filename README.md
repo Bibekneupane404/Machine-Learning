@@ -80,3 +80,10 @@ Learned how to work with SQL data and tried it one example dataset from kaggle.
 Mostly learned about reaading the data in Pandas.
 
 Learned about torch.tensors from documentation.
+
+
+### Day 6
+
+Today I learned how to Fetch data using an API and convert into a CSV format.
+
+I used API from a TMDP (movie website) and used most popular movies, then I used the API to gather all the data into CSV form.
