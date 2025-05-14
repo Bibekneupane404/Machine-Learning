@@ -87,3 +87,10 @@ Learned about torch.tensors from documentation.
 Today I learned how to Fetch data using an API and convert into a CSV format.
 
 I used API from a TMDP (movie website) and used most popular movies, then I used the API to gather all the data into CSV form.
+
+
+### Day 7
+
+I started learning Pytorch so today I learned about tensor creation and learned about tensor datatypes.
+
+![image](https://github.com/user-attachments/assets/faa9ac65-ef94-4418-bfe0-355f78f17bb0)
