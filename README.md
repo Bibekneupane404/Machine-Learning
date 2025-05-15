@@ -94,3 +94,8 @@ I used API from a TMDP (movie website) and used most popular movies, then I used
 I started learning Pytorch so today I learned about tensor creation and learned about tensor datatypes.
 
 ![image](https://github.com/user-attachments/assets/faa9ac65-ef94-4418-bfe0-355f78f17bb0)
+
+
+### Day 8
+
+Today I learned about Univariate EDA and did some EDA on titanic datasets, on the other hand I learned more about dtype in pytorch.
