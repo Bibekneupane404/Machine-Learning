@@ -99,3 +99,8 @@ I started learning Pytorch so today I learned about tensor creation and learned 
 ### Day 8
 
 Today I learned about Univariate EDA and did some EDA on titanic datasets, on the other hand I learned more about dtype in pytorch.
+
+
+### Day 9
+
+Today I completed multivariate analysis from CompusX videos and simultaneously also leanred some more tensor manipulation and matrix multiplication in Pytorch.
