@@ -104,3 +104,10 @@ Today I learned about Univariate EDA and did some EDA on titanic datasets, on th
 ### Day 9
 
 Today I completed multivariate analysis from CompusX videos and simultaneously also leanred some more tensor manipulation and matrix multiplication in Pytorch.
+
+
+### Day 10
+
+Today I learned how to use one of the most useful tool for data analysis 'pandas profiling'. I used titanic dataset and heart disease dataset. It shows the report of the whole dataset and performs univariate and multivariate analysis. I also learned about feature engineering (Just started introduction). 
+
+On the other hand, I learned some basic opration like mean, median, max and min in Pytorch.
