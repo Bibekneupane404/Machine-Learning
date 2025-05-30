@@ -111,3 +111,14 @@ Today I completed multivariate analysis from CompusX videos and simultaneously a
 Today I learned how to use one of the most useful tool for data analysis 'pandas profiling'. I used titanic dataset and heart disease dataset. It shows the report of the whole dataset and performs univariate and multivariate analysis. I also learned about feature engineering (Just started introduction). 
 
 On the other hand, I learned some basic opration like mean, median, max and min in Pytorch.
+
+
+### Day 11 
+
+
+Today I learned about standardization in Feature scaling and saw how it maked difference in the accuracy. Mostly it is used in algorithms where we need to calculate the Euclidean distances like K-means, K_nearest means etc. 
+
+![image](https://github.com/user-attachments/assets/b7270a85-4642-4734-99bb-9cb3b6f45458)
+
+
+I used a dataset with columns salary, age and purchased (Y) and observed the graph after the standardization and found main difference that the graph is not changed but the range of values will be significantly reduced (Mean becomes 0 and Standard Deviation becomes 1).
