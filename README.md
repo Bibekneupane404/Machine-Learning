@@ -122,3 +122,28 @@ Today I learned about standardization in Feature scaling and saw how it maked di
 
 
 I used a dataset with columns salary, age and purchased (Y) and observed the graph after the standardization and found main difference that the graph is not changed but the range of values will be significantly reduced (Mean becomes 0 and Standard Deviation becomes 1).
+
+
+### Day 12
+
+Topics Covered:
+
+📚 Started the Stanford CS231N Deep Learning playlist, primarily focused on Computer Vision.
+
+🔁 Revisited core Machine Learning concepts — specifically, OneHotEncoding for handling Nominal Data.
+
+Key Learnings:
+
+Understood how CNNs interpret visual input from Lecture 1 of CS231N.
+
+Practiced OneHotEncoding using:
+
+pandas.get_dummies()
+
+sklearn.preprocessing.OneHotEncoder
+
+Handled high-cardinality categorical data by selecting top N frequent categories.
+
+
+![image](https://github.com/user-attachments/assets/ee3e017e-be33-4a6c-a4b3-0f5945e502be)
+
